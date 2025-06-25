@@ -12,7 +12,6 @@ import {
 
 const router = Router();
 
-// Admin-only route to get all songs
 router.get("/", protectRoute, requireAdmin, getAllSongs);
 
 // Public routes
