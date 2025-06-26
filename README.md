@@ -115,7 +115,7 @@ Coming soon...
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by Vedant Mudiraj
+Made by Vedant Mudiraj
 
 ---
 
