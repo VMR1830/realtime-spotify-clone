@@ -1,21 +1,21 @@
 
-# 🎵 Music Streaming Web App
+#  Music Streaming Web App
 
 A full-stack music streaming platform built with the MERN stack + Clerk for authentication and Zustand for state management. Users can stream, manage, and interact with songs and albums in real time using Socket.IO.
 
-## 🚀 Features
+##  Features
 
-- 🎧 Stream featured, trending, and personalized "Made For You" songs
-- 🧑‍💼 Admin-only song/album management (add, delete)
-- 📊 Dashboard with user, album, and song stats
-- 🔐 Secure authentication using Clerk
-- 🧠 Global state management using Zustand
-- 💬 Real-time user presence and activity (Socket.IO)
-- 🧹 Temp file cleanup with Cron Jobs
-- 🖼️ Image & audio uploads using `express-fileupload` and Cloudinary
-- 📦 Production-ready build (frontend in React + Vite)
+-  Stream featured, trending, and personalized "Made For You" songs
+-  Admin-only song/album management (add, delete)
+-  Dashboard with user, album, and song stats
+-  Secure authentication using Clerk
+-  Global state management using Zustand
+-  Real-time user presence and activity (Socket.IO)
+-  Temp file cleanup with Cron Jobs
+-  Image & audio uploads using `express-fileupload` and Cloudinary
+-  Production-ready build (frontend in React + Vite)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**: React, Vite, TailwindCSS, Zustand, TypeScript  
 **Backend**: Node.js, Express.js, MongoDB, Mongoose, Socket.IO  
@@ -23,7 +23,7 @@ A full-stack music streaming platform built with the MERN stack + Clerk for auth
 **File Handling**: express-fileupload, Cloudinary  
 **Others**: nodemon, dotenv, cors, node-cron
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 root/
@@ -47,7 +47,7 @@ root/
 └── package.json
 ```
 
-## 🔧 Installation
+##  Installation
 
 ### 1. Clone the Repo
 
@@ -109,11 +109,8 @@ npm run dev
 npm run dev
 ```
 
-## 📸 Screenshots
 
-Coming soon...
-
-## 🧑‍💻 Author
+##  Author
 
 Made by Vedant Mudiraj
 
